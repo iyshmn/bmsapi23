@@ -1,4 +1,5 @@
-[{
+{"bank": [
+    {
     "AccountName": "Current Account",
     "BankBalance": 20310.0000,
     "BankFeedsAccountId": 0,
@@ -148,3 +149,4 @@
     "TransactionLockDate": "2014-08-07 12:00:00",
     "TransactionLockEnabled": false
   }]
+}
